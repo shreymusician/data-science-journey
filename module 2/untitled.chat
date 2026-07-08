@@ -1,0 +1,28 @@
+{
+  "messages": [
+    {
+      "body": "Hello",
+      "id": "5a4510a7-d521-42b8-a32f-b7197bfde1f7",
+      "sender": "ba9751ec78d64065842de6d27173f485",
+      "type": "msg",
+      "time": 1783519458.6290774,
+      "raw_time": false
+    }
+  ],
+  "users": {
+    "ba9751ec78d64065842de6d27173f485": {
+      "username": "ba9751ec78d64065842de6d27173f485",
+      "name": "Anonymous Erinome",
+      "display_name": "Anonymous Erinome",
+      "color": "var(--jp-collaborator-color6)",
+      "mention_name": "Anonymous-Erinome",
+      "bot": false,
+      "initials": "AE",
+      "avatar_url": null
+    }
+  },
+  "attachments": {},
+  "metadata": {
+    "id": "d02e10d6-6d1a-4dad-bde3-f9f19d9fcf4e"
+  }
+}
